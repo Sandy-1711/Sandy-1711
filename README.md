@@ -1,7 +1,5 @@
 # Hi there, I'm Sandeep 👋
 
-![Profile Banner](./WhatsApp%20Image%202023-06-21%20at%2011.39.34.jpg)
-
 ## About Me
 
 I'm a passionate software developer with expertise in MERN Full Stack Development. I love creating innovative solutions and sharing my knowledge with the community.
