@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sandeep 👋
 
-![Profile Banner](https://your-image-url.com/banner.png)
+![Profile Banner](./WhatsApp%20Image%202023-06-21%20at%2011.39.34.jpg)
 
 ## About Me
 
-I'm a passionate software developer with expertise in [your expertise]. I love creating innovative solutions and sharing my knowledge with the community.
+I'm a passionate software developer with expertise in MERN Full Stack Development. I love creating innovative solutions and sharing my knowledge with the community.
 
-- 🌱 I’m currently learning [your current learning focus]
-- 💬 Ask me about [your expertise or interests]
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: [a fun fact about you]
+- 🌱 I’m currently learning Solidity
+- 💬 Ask me about anything web
+- 📫 How to reach me: [sandy1711003@gmail.com](mailto:sandy1711003@gmail.com)
 
+- 😉 Portfolio: [Sandeep Singh](https://sandeep-singh-web.netlify.app)
 ## 🚀 Projects
 
 ### [Project 1](https://github.com/your-username/project-1)
@@ -38,10 +38,10 @@ I enjoy writing about technology and sharing insights:
 
 ## 📫 Get in Touch
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **Email:** [sandy1711003@gmail.comm](mailto:sandy1711003@gmail.comm)
+- **LinkedIn:** [Sandeep Singh](https://www.linkedin.com/in/sandeep-singh-445058254/)
+- **Twitter:** [@sandy1711003](https://x.com/sandy1711003)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Sandy-1711&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandy-1711&show_icons=true&theme=radical)
