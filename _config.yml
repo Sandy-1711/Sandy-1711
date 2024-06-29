@@ -1,0 +1,9 @@
+title: Sandy-1711 Github Page
+description: A personal site created by Sandeep Singh.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://Sandy-1711.github.io" # the base hostname & protocol for your site
+
+# Optional settings
+twitter_username: your_twitter_username
+github_username: Sandy-1711
+theme: jekyll-theme-slate
