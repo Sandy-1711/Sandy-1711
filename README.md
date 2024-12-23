@@ -1,6 +1,6 @@
 # Hi there, I'm Sandeep 👋
 
-![Profile Banner](./WhatsApp%20Image%202023-06-21%20at%2011.39.34.jpg)
+![Profile Banner](./me.jpg)
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm a passionate software developer with expertise in MERN Full Stack Developmen
 - 💬 Ask me about anything web
 - 📫 How to reach me: [sandy1711003@gmail.com](mailto:sandy1711003@gmail.com)
 
-- 😉 Portfolio: [Sandeep Singh](https://sandeep-singh-web.netlify.app)
+- 😉 Portfolio: [Sandeep Singh](https://portfolio-website-lovat.vercel.app/)
 ## 🚀 Projects
 
 ### [Project 1](https://github.com/your-username/project-1)
@@ -44,4 +44,3 @@ I enjoy writing about technology and sharing insights:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sandy-1711&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sandy-1711&show_icons=true&theme=radical)
