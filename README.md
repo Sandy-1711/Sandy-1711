@@ -2,7 +2,7 @@
 
 **I work on AI agent infrastructure** — the runtime layer that makes agents dependable: memory and semantic recall, streaming, tool orchestration, and background execution. I'm an active contributor to [Mastra](https://github.com/mastra-ai/mastra) (25k+ ⭐) with **12 merged PRs** across core, `ai-sdk`, and Studio. Previously: AI Engineer at **AiRA** (agent orchestration, memory, RAG) and AI Research Intern at **IIT Kharagpur** (multimodal LLM fine-tuning — 75% accuracy on circuit-generation tasks where base models scored ~0%).
 
-📍 Bengaluru, India · 🌐 [Portfolio](https://devsandy.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-singh-445058254/) · 📫 sandy1711003@gmail.com
+📍 Bengaluru, India ·  💼 [LinkedIn](https://www.linkedin.com/in/sandeep-singh-445058254/) · 📫 sandy1711003@gmail.com · 🌐 [Portfolio](https://devsandy.vercel.app/)
 
 ## 🔧 Highlight contributions
 
